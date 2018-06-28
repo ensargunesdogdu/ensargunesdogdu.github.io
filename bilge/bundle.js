@@ -2339,7 +2339,7 @@ let restaurants = null
 let wheelName = wheelNameEl.textContent
 
 // Resturants near Main St. Santa Monica, CA, USA
-const defaultRestaurants = ['AirWatch Krlm', 'Yıllık izin Alma', '3i Girme ', 'Mobile Circuit','Kişi Arama','Günün Yemeği','Onay Kontrolü','Servis Arama','find.siemens.com']
+const defaultRestaurants = ['AirWatch Nedir', 'Yıllık izin Alma', '3i Girme ', 'Mobile Circuit','Kişi Arama','Günün Yemeği','Onay Kontrolü','Servis Arama','find.siemens','Ask HR']
 
 const localStorageKeySegments = 'lunchwheel:segments'
 const localStorageKeyWheelName = 'lunchwheel:name'
